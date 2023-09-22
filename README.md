@@ -8,10 +8,10 @@ A highly skilled and competent individual with hands-on experience in designing,
 ## Education
 
 - **HUMBER COLLEGE**  
-  Postgraduate in Web Development
+  - Postgraduate in Web Development
 
 - **YORK UNIVERSITY**  
-  Postgraduate in Blockchain and Backend Development
+  - Postgraduate in Blockchain and Backend Development
 
 - **LOVELY PROFESSIONAL UNIVERSITY**
   - B.Tech in Computer Science (Full Stack Specialization)
