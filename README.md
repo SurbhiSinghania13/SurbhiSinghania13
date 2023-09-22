@@ -1,9 +1,8 @@
-### Hi there 👋
+![banner](https://media.licdn.com/dms/image/D5616AQGBhCrFxKdMyw/profile-displaybackgroundimage-shrink_350_1400/0/1676084500708?e=1700697600&v=beta&t=rKK1pNWEnKgLvPtfNwfv9PtYrf-SAnZJAT3HPBJ0ZfY)
 # Surbhi Singhania
 
 📚 Pursuing PG in Blockchain Development  
-📧 [surbhisinghania404@gmail.com](mailto:surbhisinghania404@gmail.com)  
-📱 +1-905-782-6126  
+📧 [surbhisinghania404@gmail.com](mailto:surbhisinghania404@gmail.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/surbhi-singhania/)
 
 ## Summary
