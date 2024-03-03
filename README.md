@@ -6,17 +6,6 @@
 
 Experienced Full Stack Web Developer proficient in both frontend and backend technologies. Skilled in creating responsive, user-friendly web applications utilizing HTML, CSS, JavaScript, and various frameworks such as React and Angular. Proficient in server-side languages like Node.js, Python, and PHP, with expertise in database management systems like SQL and NoSQL. Passionate about delivering high-quality code, optimizing performance, and staying updated with emerging technologies to drive innovation in web development projects.
 
-## Education
-
-- **HUMBER COLLEGE**  
-  - Postgraduate in Web Development
-
-- **YORK UNIVERSITY**  
-  - Postgraduate in Blockchain and Backend Development
-
-- **LOVELY PROFESSIONAL UNIVERSITY**
-  - B.Tech in Computer Science (Full Stack Specialization)
-
 ## Work Experience
 
 *Coding Instructor*  
@@ -44,6 +33,17 @@ Worked as a coding Instructor where provided hands-on instruction different Codi
 
 - **Questions and Answers Functionality Enhancement for BrickMMO's Flow Website**
   Collaborated on the development of the question-and-answer feature for BrickMMO's Flow website, leveraging PHP. Facilitated seamless interaction between students and faculty     by enabling students to ask questions directly on the platform and allowing faculty members to provide timely responses. Contributed to the implementation of user                authentication, data storage, and retrieval mechanisms to ensure secure and efficient communication. This project underscored proficiency in PHP programming and the ability      to enhance user engagement and functionality within an existing web ecosystem.
+
+## Education
+
+- **HUMBER COLLEGE**  
+  - Postgraduate in Web Development
+
+- **YORK UNIVERSITY**  
+  - Postgraduate in Blockchain and Backend Development
+
+- **LOVELY PROFESSIONAL UNIVERSITY**
+  - B.Tech in Computer Science (Full Stack Specialization)  
 
 ## CONTACT
 
