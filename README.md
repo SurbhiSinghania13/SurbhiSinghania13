@@ -25,13 +25,16 @@ Worked as a coding Instructor where provided hands-on instruction different Codi
 ## Projects
 
 - **Home Decor Website**
+
   Crafted an engaging Home Decor website with flair using Node.js, React.js, and MongoDB. Achieved a seamless user experience, blending creativity with functional design.
 
 - **Humber College Esports Website Design**
+  
   Designed Humber College's esports website using Figma. Created wireframes and prototypes to establish layout and functionality. Ensured adherence to brand guidelines for a 
   seamless user experience.
 
 - **Questions and Answers Functionality Enhancement for BrickMMO's Flow Website**
+  
   Collaborated on the development of the question-and-answer feature for BrickMMO's Flow website, leveraging PHP. Facilitated seamless interaction between students and faculty     by enabling students to ask questions directly on the platform and allowing faculty members to provide timely responses. Contributed to the implementation of user                authentication, data storage, and retrieval mechanisms to ensure secure and efficient communication. This project underscored proficiency in PHP programming and the ability      to enhance user engagement and functionality within an existing web ecosystem.
 
 ## Education
