@@ -4,7 +4,7 @@
 
 📚 Pursuing PG in Web Development  
 
-A highly skilled and competent individual with hands-on experience in designing, developing, and maintaining web applications. I am passionate about becoming a Full Stack Developer and am adept at understanding client requirements to deliver projects effectively. My ability to maintain code, fix bugs, and conduct end-to-end testing sets me apart.
+Experienced Full Stack Web Developer proficient in both frontend and backend technologies. Skilled in creating responsive, user-friendly web applications utilizing HTML, CSS, JavaScript, and various frameworks such as React and Angular. Proficient in server-side languages like Node.js, Python, and PHP, with expertise in database management systems like SQL and NoSQL. Passionate about delivering high-quality code, optimizing performance, and staying updated with emerging technologies to drive innovation in web development projects.
 
 ## Education
 
@@ -19,9 +19,9 @@ A highly skilled and competent individual with hands-on experience in designing,
 
 ## Work Experience
 
-*Coding and Math Instructor*  
+*Coding Instructor*  
 
-Worked as a coding and math instructor where provided hands-on instruction in Math and different Coding languages like javascript,python,react.js for students at various levels.
+Worked as a coding Instructor where provided hands-on instruction different Coding languages like javascript,python,react.js for students at various levels.
 
 ## Technical Skills
 
@@ -35,17 +35,15 @@ Worked as a coding and math instructor where provided hands-on instruction in Ma
 
 ## Projects
 
-- **Online Food Delivery System**
-  Developed using PHP, JavaScript, and CSS, this dynamic system allows customers to order food online with a user-friendly interface.
+- **Home Decor Website**
+  Crafted an engaging Home Decor website with flair using Node.js, React.js, and MongoDB. Achieved a seamless user experience, blending creativity with functional design.
 
-- **Smart Board**
-  An interactive learning project using IoT and Machine Learning, offering features like grammar correction, handwriting recognition, and 2D to 3D conversion.
+- **Humber College Esports Website Design**
+  Designed Humber College's esports website using Figma. Created wireframes and prototypes to establish layout and functionality. Ensured adherence to brand guidelines for a 
+  seamless user experience.
 
-- **Blog Website**
-  Built with ASP.NET, HTML, JavaScript, and CSS, this dynamic platform allows clients and users to interact and solve problems.
-
-- **Automatic Temperature Control with Notification Project**
-  Utilized IoT to detect and maintain temperature while sending notifications about the current temperature to mobile devices.
+- **Questions and Answers Functionality Enhancement for BrickMMO's Flow Website**
+  Collaborated on the development of the question-and-answer feature for BrickMMO's Flow website, leveraging PHP. Facilitated seamless interaction between students and faculty     by enabling students to ask questions directly on the platform and allowing faculty members to provide timely responses. Contributed to the implementation of user                authentication, data storage, and retrieval mechanisms to ensure secure and efficient communication. This project underscored proficiency in PHP programming and the ability      to enhance user engagement and functionality within an existing web ecosystem.
 
 ## CONTACT
 
