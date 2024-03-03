@@ -1,4 +1,5 @@
-![banner](https://media.licdn.com/dms/image/D5616AQGBhCrFxKdMyw/profile-displaybackgroundimage-shrink_350_1400/0/1676084500708?e=1700697600&v=beta&t=rKK1pNWEnKgLvPtfNwfv9PtYrf-SAnZJAT3HPBJ0ZfY)
+//![banner](https://media.licdn.com/dms/image/D5616AQGBhCrFxKdMyw/profile-displaybackgroundimage-shrink_350_1400/0/1676084500708?e=1700697600&v=beta&t=rKK1pNWEnKgLvPtfNwfv9PtYrf-SAnZJAT3HPBJ0ZfY)
+![banner](banner-surbhi.jpeg)
 
 # Surbhi Singhania
 
