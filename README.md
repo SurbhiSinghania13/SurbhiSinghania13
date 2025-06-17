@@ -2,13 +2,16 @@
 
 # Surbhi Singhania
 
-📚 Pursuing PG in Web Development  
+📚 Post Graduate in Web Development  
 
 Experienced Full Stack Web Developer proficient in both frontend and backend technologies. Skilled in creating responsive, user-friendly web applications utilizing HTML, CSS, JavaScript, and various frameworks such as React and Angular. Proficient in server-side languages like Node.js, Python, and PHP, with expertise in database management systems like SQL and NoSQL. Passionate about delivering high-quality code, optimizing performance, and staying updated with emerging technologies to drive innovation in web development projects.
 
 ## Work Experience
+*Full Stack Web Developer – IPOTS, Toronto*
 
-*Coding Instructor*  
+Worked on a patient support platform using React, PHP, and MySQL. Built front-end components, integrated REST APIs, optimized database queries, and implemented CI/CD workflows.
+
+*Coding Instructor – BYJU’S Future School*
 
 Worked as a coding Instructor where provided hands-on instruction different Coding languages like javascript,python,react.js for students at various levels.
 
